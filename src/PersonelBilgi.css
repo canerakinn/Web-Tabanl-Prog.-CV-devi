@@ -1,0 +1,16 @@
+.tasarim{
+    display:  flex;
+    flex-direction: row; 
+    border-style: solid;
+    width: 800px;
+    margin: 30px;
+}
+.panel{
+    margin: 5px;
+    margin-right: 100px;
+    
+}
+img {
+    width: 200px ;
+    height: 200px;
+}
